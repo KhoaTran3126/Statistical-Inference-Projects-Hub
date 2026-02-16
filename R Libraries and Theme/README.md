@@ -2,7 +2,6 @@
 <pre>
   <code>
 library(tidyverse)
-library(GGally) # use ggpairs(columns=c(...)) for pair plots of predictors
 library(patchwork)
 library(data.table)
 library(marginaleffects)
